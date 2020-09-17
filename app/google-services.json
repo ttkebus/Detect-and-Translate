@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239407490350",
+    "firebase_url": "https://imagetotext-808aa.firebaseio.com",
+    "project_id": "imagetotext-808aa",
+    "storage_bucket": "imagetotext-808aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239407490350:android:7571428aa1bbb5e33b06bf",
+        "android_client_info": {
+          "package_name": "com.example.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239407490350-cg81u6rcnrkvm761bbtomaslt9889d93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI75_7kS7PjV4sRtovznub2g15gKSqDoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239407490350-cg81u6rcnrkvm761bbtomaslt9889d93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

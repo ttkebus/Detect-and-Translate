@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Detect and Translate</string>
+    <string-array name="langArray">
+        <item>Türkçe</item>
+        <item>English</item>
+    </string-array>
+
+</resources>
