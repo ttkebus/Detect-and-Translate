@@ -1,3 +1,3 @@
 # Detect-and-Translate
-You can detect text in an image and translate text to another language
+You can detect the text in an image and translate the text to another language
 
